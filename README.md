@@ -2,7 +2,7 @@
 Add background Blur effect or Acrylic or Mica effect to explorer for win10 and win11
 
 #
-| [Tiếng Việt](/README_ZH.md) | [English](/README.md)
+| [Tiếng Việt](/README_VI.md) | [English](/README.md)
 This project uses [LGNU V3 license](/COPYING.LESSER).
 
 [![license](https://img.shields.io/github/license/Maplespe/ExplorerBlurMica.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
